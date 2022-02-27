@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discourse touching the inconveniencies of a long continued Parliament. And the judgement of the law of the land in that behalfe. / By David Jenkins now prisoner in the Tower of London.</title>
+            <author>Jenkins, David, 1582-1663.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87528</idno>
+            <idno type="STC">Wing J590</idno>
+            <idno type="STC">Thomason E392_30</idno>
+            <idno type="STC">ESTC R201584</idno>
+            <idno type="EEBO-CITATION">99862083</idno>
+            <idno type="PROQUEST">99862083</idno>
+            <idno type="VID">160292</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87528)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160292)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E392[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discourse touching the inconveniencies of a long continued Parliament. And the judgement of the law of the land in that behalfe. / By David Jenkins now prisoner in the Tower of London.</title>
+                  <author>Jenkins, David, 1582-1663.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  Constitutional law --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160292:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 57 -->
+            <p>A DISCOURSE Touching the Inconveniencies of a Long continued Parliament.</p>
+            <p>AND THE IVDGEMENT OF THE LAW OF THE LAND In that Behalfe.</p>
+            <p>By DAVID JENKINS now Priſoner in the Tower of LONDON.</p>
+            <p>
+               <date>
+                  <add>June 17<hi rend="sup">th</hi>
+                  </add>
+               </date>Printed in the Yeare, 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160292:2"/>
+            <!-- PDF PAGE 58 -->
+            <pb n="1" facs="tcp:160292:2"/>
+            <!-- PDF PAGE 58 -->
+            <head>A DISCOURSE Touching the Inconveniencies of a Long continued Parliament.</head>
+            <list>
+               <item>1. A Perpetuall Parliament is repugnant to the Act made this Parliament for a Trienniall Parlia<g ref="char:EOLhyphen"/>ment; for how can every three years a Paliament begin, if this be perpetuall, which may be ſo if the two Houſes pleaſe?</item>
+               <item>2. An adjournment of the Parliament makes no Seſſion, 4 <hi>Pars, Inſtitut. fol.</hi> 27. Howbeit, before the Adjourn<g ref="char:EOLhyphen"/>ment, the King gives His Royall aſſent to ſome Bills. <hi>Cooke, ibid.</hi>
+               </item>
+               <item>3. There is no Seſſion till a prorogation or diſſolution of the Parliament.</item>
+               <item>4. This Parliament, as appeares by the Act for not diſſol<g ref="char:EOLhyphen"/>virg thereof, ſet downe in the Printed Statutes of this Parliament, <hi>fol.</hi> 138. cannot be prorogued but by Act of Parliament. There hath beene as yet no Act of Parlia<g ref="char:EOLhyphen"/>ment preſent, and therefore all the Acts of this Parlia<g ref="char:EOLhyphen"/>ment, are Acts of one Seſſion.</item>
+               <item>
+                  <pb n="2" facs="tcp:160292:3"/>
+                  <!-- PDF PAGE 59 -->
+5. All the Acts of one Seſſion relate to the firſt day of the Parliament,
+<note place="margin">Plowd com. 79 35 H. 8. Bro. relation 35. Bro. Parl. 86. Dier. 1 Mariae 45.</note> and all the Acts of ſuch a Parliament are Acts of one day; ſo the Act for the Trienniall, and the Act for this Perpetuall, are two Acts of one day by the Law.</item>
+               <item>6. 4 <hi>Ed.</hi> 3. <hi>cap.</hi> and 36 <hi>Ed.</hi> 3. <hi>cap.</hi> 10. A Parliament is to bee holden once every yeere, and more often if need ſhall bee; thoſe Acts are confirmed by the Act for the Trienniall Parliament. How doth a perpetuall Parlia<g ref="char:EOLhyphen"/>ment agree with a Parliament once every yeere, or with the intention of thoſe Lawes? How doth a Parliament every three yeers agree with a Parliament for ever, which may be, if the two Houſes pleaſe?</item>
+               <item>7. The reſult is this; at one day in Law this Parliament two Acts have paſſed (for howbeit the one was in 16 <hi>Carol.</hi> and the other in 17. <hi>Carol.</hi> yet both in Law are Acts of one day) the one ſaith there ſhall be a Trienniall Parliament after the end of the ſitting of this Parlia<g ref="char:EOLhyphen"/>ment: The other, this Parliament ſhall ſit for ever, if they pleaſe. The one will have a Parliament with an end, the other, a Parliament without an end.</item>
+            </list>
+            <p>When an Act of Parliament is againſt common right or Reaſon,
+<note place="margin">8 Pars, Doct. Bonhams caſe fol. 118. 8 Ed. 3.30. 33 E. 3. ceſſa<g ref="char:EOLhyphen"/>vit, 32. 27. H.G. An<g ref="char:EOLhyphen"/>nuity 41. 14 Eliz. Dier, 313.</note> or repugnant, or impoſſible to bee perfor<g ref="char:EOLhyphen"/>med, the Common Law ſhall controle it, and adjudge this Act to bee void; they are the words of the Law.</p>
+            <p>An Act of Parliament, that a man ſhall bee Judge in his owne-cauſe, is a void Act.</p>
+            <p>Begin with Common Right. It is againſt Common Right, that indebted men ſhould not pay their debts: That if any Member of the Houſe of Co<g ref="char:cmbAbbrStroke">̄</g>mons doe any Subject wrong by diſſeiſing him of his land, or diſpoſſeſſing him of his goods, or blaſting of his fame, or doing violence to
+<pb n="3" facs="tcp:160292:3"/>
+               <!-- PDF PAGE 59 -->his perſon, that ſuch perſons during their lives ſhould not bee queſtioned by a priviledge of Parliament, and that extended alſo to many others beſides themſelves. Com<g ref="char:EOLhyphen"/>mon Right doth abhorre theſe enormities, which a per<g ref="char:EOLhyphen"/>petuall Paliament doth beget, beſides the utter deſtru<g ref="char:EOLhyphen"/>ction of all mens actions, reall, perſonall, or mixt, who have to doe with Parliament men,
+<note place="margin">21 Jac.</note> by the Statute of Li<g ref="char:EOLhyphen"/>mitation, which confines ſuits to certain yeares.</p>
+            <p>For Common Reaſon. Parliaments were ordained for remedies to redreſſe publike grievances; It is againſt Reaſon they ſhould make publike and inſufferable grie<g ref="char:EOLhyphen"/>vances. The Law of the Land allowes no protection for any man imployed in the ſervice of the Kingdome but for a yeare, to be free from ſuits, and in many ſuits none at all, howbeit hee be in ſuch ſervice;
+<note place="margin">39 H. 6.39.</note> but a Parlia<g ref="char:EOLhyphen"/>ment perpetuall may prove a protection, not for a yeare, but for ever, which is againſt all manner of Reaſon.</p>
+            <p>For Impoſſibility. The death of His Majeſty (whoſe life God prolong) diſſolves it neceſſarily; For the Writ of ſummons is, <hi>Carolus Rex in hoc individuo,</hi> and <hi>Carolus Rex</hi> is in this particular, <hi>Habiturus colloquium &amp; tracta<g ref="char:EOLhyphen"/>tum cum Prelatis &amp; proceribus, &amp;c.</hi>
+               <note place="margin">2 H. 5. Cooke Title Parliam 3. pars.</note> King <hi>Charles</hi> being to have Conference and Treaty with his Prelates and Peeres; <hi>Carolus Rex</hi> cannot have <hi>Colloquium &amp; tracta<g ref="char:EOLhyphen"/>tum,</hi> Conference and Treaty, when he is deceaſed; and therefore it is impoſſible for any Parliament to continue as long as they pleaſe, as for a Parliament to make a dead man alive.</p>
+            <p>For Repugnancie. That which is but for a time, can<g ref="char:EOLhyphen"/>not be affirmed to have continuance for ever, it is repug<g ref="char:EOLhyphen"/>nant.</p>
+            <p>The end of the Act of 17. <hi>Caroli Regis,</hi> which is to continue at pleaſure, is in the ſaid Act expreſſed to be to raiſe credit for money for theſe three purpoſes. Firſt, for reliefe of his Majeſties Army and people in the North.
+<pb n="4" facs="tcp:160292:4"/>
+               <!-- PDF PAGE 60 -->Secondly, for preventing the iminent danger of the Kingdome, Thirdly, for ſupply of other His Majeſties preſent and urgent occaſions. Theſe ends are ended, the reliefe of that Army, the iminent danger ſuppoſed was ſixe yeares agoe, the ſupply of His Majeſtie hath beene a ſupply againſt him, take away the end, the meanes thereto are to no purpoſe, take away the cauſe, the effect ceaſeth; and therefore the three ends of this Act being determined,
+<note place="margin">Sir Anthony Mayns caſe. 5. pars, 1 H. 4.6. Littl. cap. Villen.</note> it agreeth with Law and Reaſon, the Act ſhould end, the Law rejects things unprofitable and uſeleſſe.</p>
+            <p>A perpetuall Parliament (beſides that it incites men to ſelfe-ends, deſtructive of the publique of which the whole Kingdome hath had ſufficient experience) wilbe a conſtant charge to the Kingdome; for that every County and Borough, who ſend Members to the Par<g ref="char:EOLhyphen"/>liament, are by the Law to pay wages to their Parlia<g ref="char:EOLhyphen"/>ment men, which to many Counties will amount above ſome Subſidies Yearely: There are many poore Bo<g ref="char:EOLhyphen"/>rough-Townes in each County of this Kingdome, who being to maintaine two Burgeſſes in Parliament, will be quickly begger'd, if the Parliament have no end; for all which reaſons it is cleare, that ſuch long continuance of Parliaments, will inſtead of a remedy (which is and ought to be the proper and true end of Parliaments) become an inſufferable grievance and oppreſſion to all the People of the Land.</p>
+            <p>The Writ of Summons this Parliament is the baſts and foundation of the Parliament. If the Foundation be deſtroyed the Parliament fals. The Aſſembly of Parliament if for thre purpoſes. <hi>Rex eſt habiturus collo<g ref="char:EOLhyphen"/>quium et tractatum cumpraelatis, magnatibus et proceribus ſuper arduis negotijs, concernentibus,</hi> 1. Nos. 2 <hi>Defenſionem regni noſtri</hi> 3. <hi>Defenſionom Eccleſiae Anglicanae.</hi> This Par<g ref="char:EOLhyphen"/>liament hath overthrowne this Foundation in all 3 parts, 1. <hi>Nos.</hi> the King, they have chaſed him away, and im<g ref="char:EOLhyphen"/>priſoned
+<pb n="5" facs="tcp:160292:4"/>
+               <!-- PDF PAGE 60 -->him; they have voted no prelats, and a num<g ref="char:EOLhyphen"/>ber of other Lords, about 40. in the City muſt not come to the Houſe, and about 40. more are out of Towne, the <hi>colloquium et tractatus</hi> are made void therby. For the King cannot conſult and treat there with men removed from thence. 2. <hi>Defenſionem regni noſtri,</hi> that is gone; they have made it their Kingdome, not His, for they have uſurped all his Soveraigntie. 3. <hi>Defenſio<g ref="char:EOLhyphen"/>nem Eccleſiae Anglicana,</hi> that is gone, that <hi>Eccleſia An<g ref="char:EOLhyphen"/>glicana</hi> muſt be underſtood neceſſarily that Church, that at the teſte of of the Writ was <hi>Eccleſiae Anglicana,</hi> they have deſtroyed that too. So now theſe men would be called a Parliament, having abated, quaſhed, and made nothing of the Writ whereby they were Summoned and Aſſembled. If the Writ be made void, all the pro<g ref="char:EOLhyphen"/>ceſſe is void alſo: that Houſe muſt needs fall, where the Foundation is overthrowne, <hi>Subato fundamento opus ca<g ref="char:EOLhyphen"/>dit,</hi> the Foundation being taken away, the worke falls, is both a maxime in Law and Reaſon.</p>
+            <p>For ſome yeares paſt, there is no crime from Treaſon to Treſpaſſe, but they are guilty of: all Treaſon, Felo<g ref="char:EOLhyphen"/>nies, Robberies, treſpaſſes are <hi>contra pacem, coronam et dignitatem Regis,</hi> againſt the Peace, Crowne and Digni<g ref="char:EOLhyphen"/>tie of the King; as appeares by all Indictments in all Ages. <hi>Pax Regis</hi> the Kings Peace, <hi>Corona Regis,</hi> the Kings Crowne, <hi>Dignitas Regis,</hi> the Kings Dignitie, are all trod under foot, and made nothing; <hi>Pax Regis,</hi> the Peace of the King is become a Warre againſt the King, His Dignitie put into priſon, and the Crowne put upon their owne heads.</p>
+            <p>All the Judges of <hi>England</hi> have reſolved,
+<note place="margin">Nevills caſe 7. part, 34. 2. Jacobi.</note> that Noble<g ref="char:EOLhyphen"/>men committing Treaſon have forfeited their Office and Dignitie, their Office is to councell the King in time of Peace, to defend him in time of Warre, and therefore thoſe men againſt the duty and end of their Dignitie taking not onely Councell, but Armes alſo to deſtroy
+<pb n="6" facs="tcp:160292:5"/>
+               <!-- PDF PAGE 61 -->Him, and being thereof attaint by due courſe of Law by a tacite condition annexed to the eſtate of their Dignitie, have forfeited the ſame; they are the words of the Law, and therefore they have made themſelves inca<g ref="char:EOLhyphen"/>pable to be Members of the upper Houſe.</p>
+            <div type="part">
+               <head>The Oppreſſions of the People.</head>
+               <p>Briberies, Extortions, Monopolies, ought to be in<g ref="char:EOLhyphen"/>quired after by the Houſe of Commons, and complained of to the King and Lords, what have they done?</p>
+               <p>The Houſe of Commons cannot by the Law commit any man to priſon, who is not of the ſaid Houſe, for Treaſon, Murder, or Felony, or any thing but for the diſturbance of the publique Peace, by the priviledge of the whole body.</p>
+               <p>They have no power by the Writ, which the King iſſueth to elect and returne Members of that Houſe, ſo to doe. For the Writ for them is onely <hi>ad faciendum et conſentiendum</hi> to thoſe things, whereof His Majeſtie ſhall conſult and treat with his Prelates and Nobles, <hi>et de communi conſilio Regni</hi> ſhall be there ordained, as ap<g ref="char:EOLhyphen"/>peares by the Writ. Here is no ſeparate power given over the Kings people to them, but onely <hi>ad faciendum et conſentiendum,</hi>
+                  <note place="margin">4 Pars. inſti<g ref="char:EOLhyphen"/>tut. 23.24.25.</note> and in all times this hath beene expoun<g ref="char:EOLhyphen"/>ded and reſtrained to that which concerned their owne Members in Relation to the publique Service, as he is a Member of the corporate body of the Parliament, wher<g ref="char:EOLhyphen"/>of the King is the Head.</p>
+               <p>But that the Houſe of Commons have committed any man for Treaſon, Murder or Felony, or for any offence that had no relation to a Member of the Houſe of Com<g ref="char:EOLhyphen"/>mons, as it is againſt Law and Reaſon, ſo no inſtance can be given till this Parliament.
+<note place="margin">19 H. 6.43.22. E. 4.22. 5 H. 4. cap. 8. 3 H. 6.46.</note>
+               </p>
+               <p>All Queſtions and trials where witneſſe are examined, the examination is upon oath by the Law, by all our
+<pb n="7" facs="tcp:160292:5"/>
+                  <!-- PDF PAGE 61 -->Bookes, Statutes, every dayes practice. Examination without an Oath, is but a looſe diſcourſe; therefore the Houſe of Commons not claiming power to give an Oath, have no power to examine any man.</p>
+               <p>No man ſhall bee impriſoned by the King or His Councell, unleſſe it be by Inditement,
+<note place="margin">25 E. 3. c. 4. Perition of Right. 3 Car.</note> preſentment of his good and lawfull Neighbours where ſuch deeds bee done, in due manner, or by proceſſe made by Wtit ori<g ref="char:EOLhyphen"/>ginall at the Common Law: This Statute rehearſes <hi>Magna Charta, pag.</hi> 29. and expounds <hi>Lex terrae,</hi> the Law of the Land there mentioned: This Law binds all men, and the Houſe of Commons (for they ſay they are of the Kings Councell) in all points, but onely againſt the diſturbers of the ſervice of the Parliament; and therefore the impriſonment of ſeverall perſons who are not their Members, and for no diſturbance to their Mem<g ref="char:EOLhyphen"/>bers, is utterly againſt the Law of the Land, and the fran<g ref="char:EOLhyphen"/>chiſe of the Free-men of this Realme.</p>
+               <p>
+                  <hi>Cui non licet quod minus, non licet quod majus;</hi> he who may not doe what is leſſe, may not doe what is greater; they cannot commit a man for murder or Felony, much leſſe for Treaſon.</p>
+               <p>No Court can fine and impriſon,
+<note place="margin">8 Pars, Cook 120. 27 H. 6.8.</note> but a Court of Re<g ref="char:EOLhyphen"/>cord, the Houſe of Commons is no Court of Record, the Houſe of the Lords where the King is in his Perſon, his Nobles and his Judges, and Councell at Law, the Ma<g ref="char:EOLhyphen"/>ſters of the Chancery aſſiſting, is a Court of Record, and that is the Court of Parliament, where the <hi>colloquium &amp; tractatus</hi> is. The Houſe of Commons may preſent grievances, grant or not grant aydes, conſent or not conſent to new lawes, but for fining and impriſoning any but as aforeſaid, is but of a late date, and no ancient u<g ref="char:EOLhyphen"/>ſage: They have no Journall Booke, but ſithence <hi>Edw.</hi> 6. time. 6 <hi>Hen.</hi> 8. <hi>cap.</hi> 15. doth not prove the Houſe of Commons to be a Court of Record, it mentions onely to be entered on Record in the Booke of the Clerke of the Parliament, if any Member depart into the Country.
+<pb n="8" facs="tcp:160292:6"/>
+                  <!-- PDF PAGE 62 -->There is no Journall there but ſithence <hi>Ed.</hi> 6. time, or it is a remembrance or memoriall, as 12 <hi>H.</hi> 4.23.</p>
+               <p>The whole Parliament is one corporate body,
+<note place="margin">14 H. 8.3. 36 H. 8. Dier 60. 4 Pars Inſtit. c<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>p. 1.</note> con<g ref="char:EOLhyphen"/>ſiſting of the Head and three Eſtates: The Court is on<g ref="char:EOLhyphen"/>ly there where the <hi>Conſilium &amp; tractatus</hi> is, where the conſult and treaty is with the King, which is in the Houſe of Lords onely.</p>
+               <p>The Houſe of Commons claime not to examine upon oath any man; no Court can bee without a power to give an oath, Courts Baron, Court of Pipowders, Coun<g ref="char:EOLhyphen"/>ty-Court, may and doe give oath: No Court can bee without a power to try, no tryall can be without Oath; and therefore the Houſe of Commons not claiming po<g ref="char:EOLhyphen"/>wer to give an Oath, can bring no matter to tryall, and conſequently can be no Court.</p>
+               <p>The behaviour of the Commons at a Conference with the Lords, the Commons are alwayes uncovered, and ſtanding when the Lords ſit with their hats on, which ſhewes they are not Colleagues in judgement, for fel<g ref="char:EOLhyphen"/>low Judges owe no ſuch Reverence to their Compa<g ref="char:EOLhyphen"/>nions.</p>
+               <p>When was ever Fine impoſed by the Houſe of Com<g ref="char:EOLhyphen"/>mons eſtreated in the Exchequer?
+<note place="margin">11 H. 4. ca. 1.</note> The ejecting of a Member, who hath ſitten, is againſt the Law; for they cannot remove a man out of the Houſe unduly returned, much leſſe a man returned duely.</p>
+               <p>By theſe Lawes it appeares,
+<note place="margin">
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap> H. 4. cap. 1. 1 H 5. cap. 1. 8 H. 6. cap. 7. 23 H. 6. cap. 15</note> that if any undue returne be made, the perſon returned is to continue a Member, the Sheriffes puniſhment is 200. pound, one to the King, another to the party that is duly elected, impriſonment for a yeare without Baile or Mainpriſe; and that perſon who is unduly returned, ſhall ſerve at his owne charge, and have no benefit at the end of the Parliament by the Writ <hi>De ſolutione foendorum Militum, Civium &amp; Burgen<g ref="char:EOLhyphen"/>ſium Parliament.</hi> and the tryall of the falſity of the re<g ref="char:EOLhyphen"/>turne, is to be before the Juſtices of Aſſiſes in the proper
+<pb n="9" facs="tcp:160292:6"/>
+                  <!-- PDF PAGE 62 -->County, or by action of debt in any Court of Record. This condemnes the Committee for undue elections, which hath been practiſed but of late times;
+<note place="margin">3 Ed. 4.20. 5 Ed. 4.41.</note> for beſides theſe Lawes, it is againſt a maxime of the Common law; an averment is not receivable againſt the returne of the Sheriffe, for his returne is upon Oath, which Oath is to be credited in that ſuit wherein the returne is made.</p>
+               <p>The ſaid Statutes condemne and make thoſe members no members, which were not reſiant in the County or Boroughs, for which they were elected, at the time of the teſt of the Writ of the Summons of the Parliament, and any abuſive practice of late times to the contrary is againſt the <hi>Law,</hi> and ought not to be allowed.</p>
+            </div>
+            <div type="part">
+               <head>Aſſault upon Parliament Men.</head>
+               <p>If a Par<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iament man or his Meniall Servant be aſſaul<g ref="char:EOLhyphen"/>ted, beaten, or wounded, in the Parliament time,
+<note place="margin">5 H. 4. cap 6. 11 H. 6. cap 11.</note> procla<g ref="char:EOLhyphen"/>mation ſhall bee made where the deed is done, that the offender ſhall render himſelfe to the Kings Bench, with<g ref="char:EOLhyphen"/>in a quarter of a yeare after proclamation made, and the offence there to be tryed, for default of appearance the offender is declared, attainted of the miſdeed, and it is accorded that thereafter it bee done likewiſe in the like Caſe.</p>
+               <p>Serving of proceſſe upon a Lord of the Parliament pu<g ref="char:EOLhyphen"/>niſhed in the Lords Houſe.
+<note place="margin">Bogo de Clare 18 E. 3.4 pars, Inſtit. fol. 24. Iohn Thornſ<g ref="char:EOLhyphen"/>byes caſe, Clerk of the Parliam, ibid. 10. E. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note>
+               </p>
+               <p>Serving of proceſſe upon <hi>Thornsby</hi> inquired of in the <hi>Chancery,</hi> and there the offenders were convicted.</p>
+               <p>The premiſſes prove, that breaches of priviledge of Parliament may bee puniſhed elſewhere then in Par<g ref="char:EOLhyphen"/>liament.</p>
+               <p>Upon all this Diſcourſe, it is eaſie to diſcerne what fruits may be expected from this Parliament, continuing as long as the two Houſes pleaſe; and that there is no ſafety for this Common-wealth, but by the Obſervati<g ref="char:EOLhyphen"/>ons of their ancient Franchiſes, Cuſtomes and Lawes.</p>
+            </div>
+            <div type="conclusion">
+               <pb n="10" facs="tcp:160292:7"/>
+               <!-- PDF PAGE 63 -->
+               <head>CONCLUSION.</head>
+               <p>
+                  <hi>I</hi> Say againe, that without an Act of Oblivion, a gracious generall Pardon from His Majesty, the Ar<g ref="char:EOLhyphen"/>reares of the Souldiers paid, a favo<g ref="char:EOLhyphen"/>rable regard had to tender Conſcien<g ref="char:EOLhyphen"/>ces, there will bee neither Truth nor Peace in this Land, nor any man ſe<g ref="char:EOLhyphen"/>cure of any thing he hath.</p>
+               <trailer>The End.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
